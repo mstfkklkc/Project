@@ -1,0 +1,9 @@
+C:\Users\mstfk\source\repos\ProjectForJob\logLibrary\bin\Debug\netcoreapp3.1\logLibrary.deps.json
+C:\Users\mstfk\source\repos\ProjectForJob\logLibrary\bin\Debug\netcoreapp3.1\logLibrary.dll
+C:\Users\mstfk\source\repos\ProjectForJob\logLibrary\bin\Debug\netcoreapp3.1\logLibrary.pdb
+C:\Users\mstfk\source\repos\ProjectForJob\logLibrary\obj\Debug\netcoreapp3.1\logLibrary.csprojAssemblyReference.cache
+C:\Users\mstfk\source\repos\ProjectForJob\logLibrary\obj\Debug\netcoreapp3.1\logLibrary.AssemblyInfoInputs.cache
+C:\Users\mstfk\source\repos\ProjectForJob\logLibrary\obj\Debug\netcoreapp3.1\logLibrary.AssemblyInfo.cs
+C:\Users\mstfk\source\repos\ProjectForJob\logLibrary\obj\Debug\netcoreapp3.1\logLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mstfk\source\repos\ProjectForJob\logLibrary\obj\Debug\netcoreapp3.1\logLibrary.dll
+C:\Users\mstfk\source\repos\ProjectForJob\logLibrary\obj\Debug\netcoreapp3.1\logLibrary.pdb

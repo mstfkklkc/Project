@@ -1,0 +1,6 @@
+C:\Users\mstfk\source\repos\ProjectForJob\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\mstfk\source\repos\ProjectForJob\Application\obj\Debug\netcoreapp3.1\Application.Form1.resources
+C:\Users\mstfk\source\repos\ProjectForJob\Application\obj\Debug\netcoreapp3.1\Application.csproj.GenerateResource.cache
+C:\Users\mstfk\source\repos\ProjectForJob\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\mstfk\source\repos\ProjectForJob\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\mstfk\source\repos\ProjectForJob\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
